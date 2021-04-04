@@ -1,4 +1,4 @@
-# qc-covid-cases-mapping
+# Mapping of COVID-19 cases in Quezon City
 This is a repository containing the codes for downloading and mapping COVID-19 cases in Quezon City, Philippines.
 
 ## Sample Results:
@@ -10,8 +10,6 @@ This is a repository containing the codes for downloading and mapping COVID-19 c
 ### Dynamic Visualization
 
 ![Dynamic map](https://user-images.githubusercontent.com/13530187/113498006-a2b03c80-953b-11eb-8e0a-e6387bc536f3.mp4)
-
-
 
 ### Data Source
 The data is downloaded from the [Quezon City website](https://quezoncity.gov.ph/covid19counts).
